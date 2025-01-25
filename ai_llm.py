@@ -1,6 +1,3 @@
-pip install boto3==1.35.98
-pip install requests beautifulsoup4
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
